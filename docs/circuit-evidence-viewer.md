@@ -14,7 +14,13 @@ The comparison helps people investigate and explain readings. It does not choose
 
 ## Made-up illustration — not live measurements
 
-An illustration can place an example transmitter reading beside its corresponding receiver reading, then show a short technician note above the comparison. Missing readings should be shown as unavailable, not replaced with guessed values. Any future sample readings will be invented and labeled accordingly; this page does not present a real device capture.
+![Fictional before-and-after illustration: separate raw readings beside the same readings in a compact report with a technician note.](images/circuit-evidence-example.png)
+
+**All module labels and measurements in this illustration are made up.** It was drawn independently to explain the presentation improvement; it is not a screenshot produced by the operational tool.
+
+The same readings appear on both sides of the illustration. The clearer layout puts the two circuit ends together and places the technician's explanation above them. Side Z lane 3 SNR remains **N/A**, highlighted as missing information rather than replaced with zero. Reported UP status and readable values are evidence, not a completed-repair verdict.
+
+The point is easier reading and handoff—not changing the data, choosing a troubleshooting step, proving a defective component or claiming measured time savings.
 
 ## My contribution
 
