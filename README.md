@@ -1,37 +1,32 @@
 # Repair Workflow Portfolio
 
-I built small tools to spend less time preparing repair tickets and documenting results, and more time getting the work done. This portfolio shows how those tools complement each other—and what I learned when an automation idea did not fit the team's workflow.
+I worked on small tools to reduce repetitive repair preparation and make test results easier to understand and document. The goal was to help technicians get to the work, not tell them how to troubleshoot.
 
-## How the work fits together
+This documentation-only draft uses generic project labels and made-up examples. It contains no operational source code, real records, internal system links or installation commands. The fuller project descriptions are being reviewed before publication.
+
+## How the tools fit together
 
 ```text
-Prepare the work                  Diagnose and repair
-Autoatn: existing diagnosis       Technician judgment and physical work
-         → preparation note                    ↕
-Badger: badge-in requirements     Fab: readable evidence from both ends
-        → grouped worklist
-
-Validate and document
-Checker: one-sided optic test → reviewed findings
-    OR
-Ofab: optic test → subsequent circuit comparison
+Prepare the work          Troubleshoot and repair       Validate and document
+Record an existing plan   Technician judgment           Test the selected component
+Group related tasks       Readable circuit evidence     Review and record findings
 ```
 
-These are complementary tools, not a requirement to run every script on every ticket. Fab can help during troubleshooting and when documenting a handoff. Checker and Ofab provide different testing paths.
+The tools support different parts of the work. They are not one automatic pipeline, and not every repair uses every tool.
 
-## What this repository will contain
+## Project pages
 
-- Runnable, offline examples using fictional tickets and optical readings.
-- Before-and-after reports showing the useful work and the cases held for missing evidence.
-- Tests for validation, preserved notes and confirmed simulated saves.
-- Short explanations of the workflow, my contribution and lessons learned.
-
-The portfolio is being assembled. It does **not** contain the operational scripts, production connections or real ticket data.
-
-## Ladder: a lesson learned
-
-I planned to use Ladder to suggest troubleshooting steps for tickets without an existing diagnosis. After repeated trials, I found that the person assigned to a ticket was not always the person doing the work. Tailoring suggestions to that person's preferences was therefore unreliable. I paused the integration: I wanted to save technicians time, not tell them how to troubleshoot.
+- [Note preparation](docs/note-preparation.md): turn existing repair instructions into useful preparation notes.
+- [Batch work organizer](docs/batch-work-organizer.md): group tasks with the same prerequisite while preserving ownership.
+- [Circuit evidence viewer](docs/circuit-evidence-viewer.md): show both ends of a circuit in a readable comparison.
+- [Test evidence recorder](docs/test-evidence-recorder.md): make component-test findings easier to document.
+- [Two-stage validation](docs/two-stage-validation.md): an earlier example joining a local test and a later circuit check.
+- [Troubleshooting planner: lessons learned](docs/planner-lessons.md): why a planned integration was paused.
 
 ## My contribution
 
-I identified the workflow problems, shaped the tools' behavior and output, reviewed trials, tested their use, and gathered feedback. AI assisted with implementation and automated testing. The portfolio will distinguish operational experience from fictional demo results.
+I identified workflow problems, shaped tool behavior and output, tried changes during real use, and gathered feedback. AI assisted with implementation and testing. These pages distinguish my experience from made-up illustrations; the illustrations do not prove productivity gains or diagnostic accuracy.
+
+## Current scope
+
+This is a project-description draft, not a runnable toolkit. It uses general descriptions instead of internal tool names and commands. Exact workloads, time estimates and supporting work records are kept out of this version while I check what I can share.
