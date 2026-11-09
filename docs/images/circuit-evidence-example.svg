@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1100" viewBox="0 0 1600 1100" role="img" aria-labelledby="title desc">
+<title id="title">Same fictional readings, easier to read: raw output and a compact circuit evidence report.</title>
+<desc id="desc">Before and after illustration with two fictional modules and four lanes. Both states are UP. The same TX, RX and SNR values appear in both panels; Side Z lane 3 SNR is unavailable and is not replaced with zero. No real tool output, ticket or device data is used.</desc>
+<rect x="0" y="0" width="1600" height="1100" rx="0" fill="#151c25"/>
+<rect x="32" y="28" width="1536" height="54" rx="8" fill="#24364b" stroke="#89bcfa" stroke-width="2"/>
+<text xml:space="preserve" x="58" y="63" font-family="DejaVu Sans,sans-serif" font-size="22" font-weight="bold" fill="#b9d8ff" text-anchor="start">ILLUSTRATION — ALL DETAILS AND MEASUREMENTS ARE FICTIONAL</text>
+<text xml:space="preserve" x="40" y="132" font-family="DejaVu Sans,sans-serif" font-size="36" font-weight="bold" fill="#edf4fa" text-anchor="start">Same evidence. Less digging.</text>
+<text xml:space="preserve" x="40" y="171" font-family="DejaVu Sans,sans-serif" font-size="20" font-weight="normal" fill="#bccbd6" text-anchor="start">An independently drawn example of clearer reporting—not a screenshot of an operational script.</text>
+<rect x="32" y="204" width="520" height="756" rx="10" fill="#1b2531" stroke="#4e6476" stroke-width="2"/>
+<rect x="580" y="204" width="988" height="756" rx="10" fill="#202b38" stroke="#4e6476" stroke-width="2"/>
+<text xml:space="preserve" x="54" y="246" font-family="DejaVu Sans,sans-serif" font-size="22" font-weight="bold" fill="#edf4fa" text-anchor="start">BEFORE: separate raw readings</text>
+<text xml:space="preserve" x="604" y="246" font-family="DejaVu Sans,sans-serif" font-size="22" font-weight="bold" fill="#edf4fa" text-anchor="start">AFTER: a note and a side-by-side report</text>
+<text xml:space="preserve" x="55" y="296" font-family="DejaVu Sans Mono,sans-serif" font-size="19" font-weight="normal" fill="#d0dce8" text-anchor="start">Side A</text>
+<text xml:space="preserve" x="55" y="325" font-family="DejaVu Sans Mono,sans-serif" font-size="19" font-weight="normal" fill="#d0dce8" text-anchor="start">  State: UP</text>
+<text xml:space="preserve" x="55" y="354" font-family="DejaVu Sans Mono,sans-serif" font-size="19" font-weight="normal" fill="#d0dce8" text-anchor="start">  Model: Example module A</text>
+<text xml:space="preserve" x="55" y="383" font-family="DejaVu Sans Mono,sans-serif" font-size="19" font-weight="normal" fill="#d0dce8" text-anchor="start">  Lane  TX dBm  RX dBm  SNR dB</text>
+<text xml:space="preserve" x="55" y="412" font-family="DejaVu Sans Mono,sans-serif" font-size="19" font-weight="normal" fill="#d0dce8" text-anchor="start">    1    1.20   -0.80   23.40</text>
+<text xml:space="preserve" x="55" y="441" font-family="DejaVu Sans Mono,sans-serif" font-size="19" font-weight="normal" fill="#d0dce8" text-anchor="start">    2    1.10   -0.60   23.20</text>
+<text xml:space="preserve" x="55" y="470" font-family="DejaVu Sans Mono,sans-serif" font-size="19" font-weight="normal" fill="#d0dce8" text-anchor="start">    3    1.30   -1.00   23.10</text>
+<text xml:space="preserve" x="55" y="499" font-family="DejaVu Sans Mono,sans-serif" font-size="19" font-weight="normal" fill="#d0dce8" text-anchor="start">    4    1.20   -0.70   23.30</text>
+<text xml:space="preserve" x="55" y="528" font-family="DejaVu Sans Mono,sans-serif" font-size="19" font-weight="normal" fill="#d0dce8" text-anchor="start"></text>
+<text xml:space="preserve" x="55" y="557" font-family="DejaVu Sans Mono,sans-serif" font-size="19" font-weight="normal" fill="#d0dce8" text-anchor="start">Side Z</text>
+<text xml:space="preserve" x="55" y="586" font-family="DejaVu Sans Mono,sans-serif" font-size="19" font-weight="normal" fill="#d0dce8" text-anchor="start">  State: UP</text>
+<text xml:space="preserve" x="55" y="615" font-family="DejaVu Sans Mono,sans-serif" font-size="19" font-weight="normal" fill="#d0dce8" text-anchor="start">  Model: Example module Z</text>
+<text xml:space="preserve" x="55" y="644" font-family="DejaVu Sans Mono,sans-serif" font-size="19" font-weight="normal" fill="#d0dce8" text-anchor="start">  Lane  TX dBm  RX dBm  SNR dB</text>
+<text xml:space="preserve" x="55" y="673" font-family="DejaVu Sans Mono,sans-serif" font-size="19" font-weight="normal" fill="#d0dce8" text-anchor="start">    1    1.10   -0.70   23.00</text>
+<text xml:space="preserve" x="55" y="702" font-family="DejaVu Sans Mono,sans-serif" font-size="19" font-weight="normal" fill="#d0dce8" text-anchor="start">    2    1.30   -0.90   23.10</text>
+<text xml:space="preserve" x="55" y="731" font-family="DejaVu Sans Mono,sans-serif" font-size="19" font-weight="normal" fill="#d0dce8" text-anchor="start">    3    1.20   -0.80     N/A</text>
+<text xml:space="preserve" x="55" y="760" font-family="DejaVu Sans Mono,sans-serif" font-size="19" font-weight="normal" fill="#d0dce8" text-anchor="start">    4    1.10   -0.60   23.20</text>
+<text xml:space="preserve" x="55" y="789" font-family="DejaVu Sans Mono,sans-serif" font-size="19" font-weight="normal" fill="#d0dce8" text-anchor="start">  Lane 3 SNR not supplied.</text>
+<text xml:space="preserve" x="55" y="818" font-family="DejaVu Sans Mono,sans-serif" font-size="19" font-weight="normal" fill="#d0dce8" text-anchor="start"></text>
+<text xml:space="preserve" x="54" y="890" font-family="DejaVu Sans,sans-serif" font-size="19" font-weight="normal" fill="#bccbd6" text-anchor="start">Read each block, then compare.</text>
+<text xml:space="preserve" x="54" y="924" font-family="DejaVu Sans,sans-serif" font-size="18" font-weight="normal" fill="#bccbd6" text-anchor="start">No readings changed in the new layout.</text>
+<rect x="604" y="271" width="940" height="123" rx="8" fill="#e3edf4" stroke="#9bb2c4" stroke-width="2"/>
+<text xml:space="preserve" x="624" y="301" font-family="DejaVu Sans,sans-serif" font-size="15" font-weight="bold" fill="#324a60" text-anchor="start">ILLUSTRATIVE TECHNICIAN NOTE</text>
+<text xml:space="preserve" x="624" y="333" font-family="DejaVu Sans,sans-serif" font-size="23" font-weight="bold" fill="#182b3d" text-anchor="start">Side Z lane 3 SNR was not supplied.</text>
+<text xml:space="preserve" x="624" y="367" font-family="DejaVu Sans,sans-serif" font-size="21" font-weight="normal" fill="#263f54" text-anchor="start">Review the missing reading before choosing the next step.</text>
+<rect x="604" y="414" width="460" height="69" rx="6" fill="#27384b" stroke="#4e6476" stroke-width="2"/>
+<rect x="1084" y="414" width="460" height="69" rx="6" fill="#27384b" stroke="#4e6476" stroke-width="2"/>
+<text xml:space="preserve" x="623" y="442" font-family="DejaVu Sans,sans-serif" font-size="21" font-weight="bold" fill="#edf4fa" text-anchor="start">Side A · Example module A</text>
+<text xml:space="preserve" x="1103" y="442" font-family="DejaVu Sans,sans-serif" font-size="21" font-weight="bold" fill="#edf4fa" text-anchor="start">Side Z · Example module Z</text>
+<text xml:space="preserve" x="623" y="468" font-family="DejaVu Sans,sans-serif" font-size="18" font-weight="normal" fill="#bccbd6" text-anchor="start">Reported state: UP</text>
+<text xml:space="preserve" x="1103" y="468" font-family="DejaVu Sans,sans-serif" font-size="18" font-weight="normal" fill="#bccbd6" text-anchor="start">Reported state: UP</text>
+<rect x="604" y="506" width="940" height="252" rx="4" fill="#192330" stroke="#4e6476" stroke-width="2"/>
+<rect x="604" y="506" width="940" height="66" rx="0" fill="#304457"/>
+<text xml:space="preserve" x="640" y="534" font-family="DejaVu Sans,sans-serif" font-size="19" font-weight="bold" fill="#edf4fa" text-anchor="middle">Lane</text>
+<text xml:space="preserve" x="746" y="534" font-family="DejaVu Sans,sans-serif" font-size="19" font-weight="bold" fill="#edf4fa" text-anchor="middle">TX</text>
+<text xml:space="preserve" x="746" y="556" font-family="DejaVu Sans,sans-serif" font-size="15" font-weight="normal" fill="#c5d7e7" text-anchor="middle">dBm</text>
+<text xml:space="preserve" x="887" y="534" font-family="DejaVu Sans,sans-serif" font-size="19" font-weight="bold" fill="#edf4fa" text-anchor="middle">RX</text>
+<text xml:space="preserve" x="887" y="556" font-family="DejaVu Sans,sans-serif" font-size="15" font-weight="normal" fill="#c5d7e7" text-anchor="middle">dBm</text>
+<text xml:space="preserve" x="1021" y="534" font-family="DejaVu Sans,sans-serif" font-size="19" font-weight="bold" fill="#edf4fa" text-anchor="middle">SNR</text>
+<text xml:space="preserve" x="1021" y="556" font-family="DejaVu Sans,sans-serif" font-size="15" font-weight="normal" fill="#c5d7e7" text-anchor="middle">dB</text>
+<text xml:space="preserve" x="1161" y="534" font-family="DejaVu Sans,sans-serif" font-size="19" font-weight="bold" fill="#edf4fa" text-anchor="middle">TX</text>
+<text xml:space="preserve" x="1161" y="556" font-family="DejaVu Sans,sans-serif" font-size="15" font-weight="normal" fill="#c5d7e7" text-anchor="middle">dBm</text>
+<text xml:space="preserve" x="1315" y="534" font-family="DejaVu Sans,sans-serif" font-size="19" font-weight="bold" fill="#edf4fa" text-anchor="middle">RX</text>
+<text xml:space="preserve" x="1315" y="556" font-family="DejaVu Sans,sans-serif" font-size="15" font-weight="normal" fill="#c5d7e7" text-anchor="middle">dBm</text>
+<text xml:space="preserve" x="1468" y="534" font-family="DejaVu Sans,sans-serif" font-size="19" font-weight="bold" fill="#edf4fa" text-anchor="middle">SNR</text>
+<text xml:space="preserve" x="1468" y="556" font-family="DejaVu Sans,sans-serif" font-size="15" font-weight="normal" fill="#c5d7e7" text-anchor="middle">dB</text>
+<rect x="605" y="572" width="938" height="46" rx="0" fill="#202f40"/>
+<text xml:space="preserve" x="640" y="602" font-family="DejaVu Sans Mono,sans-serif" font-size="20" font-weight="normal" fill="#edf4fa" text-anchor="middle">1</text>
+<text xml:space="preserve" x="746" y="602" font-family="DejaVu Sans Mono,sans-serif" font-size="20" font-weight="normal" fill="#edf4fa" text-anchor="middle">1.20</text>
+<text xml:space="preserve" x="887" y="602" font-family="DejaVu Sans Mono,sans-serif" font-size="20" font-weight="normal" fill="#edf4fa" text-anchor="middle">-0.80</text>
+<text xml:space="preserve" x="1021" y="602" font-family="DejaVu Sans Mono,sans-serif" font-size="20" font-weight="normal" fill="#edf4fa" text-anchor="middle">23.40</text>
+<text xml:space="preserve" x="1161" y="602" font-family="DejaVu Sans Mono,sans-serif" font-size="20" font-weight="normal" fill="#edf4fa" text-anchor="middle">1.10</text>
+<text xml:space="preserve" x="1315" y="602" font-family="DejaVu Sans Mono,sans-serif" font-size="20" font-weight="normal" fill="#edf4fa" text-anchor="middle">-0.70</text>
+<text xml:space="preserve" x="1468" y="602" font-family="DejaVu Sans Mono,sans-serif" font-size="20" font-weight="normal" fill="#edf4fa" text-anchor="middle">23.00</text>
+<text xml:space="preserve" x="640" y="648" font-family="DejaVu Sans Mono,sans-serif" font-size="20" font-weight="normal" fill="#edf4fa" text-anchor="middle">2</text>
+<text xml:space="preserve" x="746" y="648" font-family="DejaVu Sans Mono,sans-serif" font-size="20" font-weight="normal" fill="#edf4fa" text-anchor="middle">1.10</text>
+<text xml:space="preserve" x="887" y="648" font-family="DejaVu Sans Mono,sans-serif" font-size="20" font-weight="normal" fill="#edf4fa" text-anchor="middle">-0.60</text>
+<text xml:space="preserve" x="1021" y="648" font-family="DejaVu Sans Mono,sans-serif" font-size="20" font-weight="normal" fill="#edf4fa" text-anchor="middle">23.20</text>
+<text xml:space="preserve" x="1161" y="648" font-family="DejaVu Sans Mono,sans-serif" font-size="20" font-weight="normal" fill="#edf4fa" text-anchor="middle">1.30</text>
+<text xml:space="preserve" x="1315" y="648" font-family="DejaVu Sans Mono,sans-serif" font-size="20" font-weight="normal" fill="#edf4fa" text-anchor="middle">-0.90</text>
+<text xml:space="preserve" x="1468" y="648" font-family="DejaVu Sans Mono,sans-serif" font-size="20" font-weight="normal" fill="#edf4fa" text-anchor="middle">23.10</text>
+<rect x="605" y="664" width="938" height="46" rx="0" fill="#202f40"/>
+<rect x="1393" y="665" width="150" height="44" rx="0" fill="#483a16"/>
+<text xml:space="preserve" x="640" y="694" font-family="DejaVu Sans Mono,sans-serif" font-size="20" font-weight="normal" fill="#edf4fa" text-anchor="middle">3</text>
+<text xml:space="preserve" x="746" y="694" font-family="DejaVu Sans Mono,sans-serif" font-size="20" font-weight="normal" fill="#edf4fa" text-anchor="middle">1.30</text>
+<text xml:space="preserve" x="887" y="694" font-family="DejaVu Sans Mono,sans-serif" font-size="20" font-weight="normal" fill="#edf4fa" text-anchor="middle">-1.00</text>
+<text xml:space="preserve" x="1021" y="694" font-family="DejaVu Sans Mono,sans-serif" font-size="20" font-weight="normal" fill="#edf4fa" text-anchor="middle">23.10</text>
+<text xml:space="preserve" x="1161" y="694" font-family="DejaVu Sans Mono,sans-serif" font-size="20" font-weight="normal" fill="#edf4fa" text-anchor="middle">1.20</text>
+<text xml:space="preserve" x="1315" y="694" font-family="DejaVu Sans Mono,sans-serif" font-size="20" font-weight="normal" fill="#edf4fa" text-anchor="middle">-0.80</text>
+<text xml:space="preserve" x="1468" y="694" font-family="DejaVu Sans Mono,sans-serif" font-size="20" font-weight="normal" fill="#edcc76" text-anchor="middle">N/A</text>
+<text xml:space="preserve" x="640" y="740" font-family="DejaVu Sans Mono,sans-serif" font-size="20" font-weight="normal" fill="#edf4fa" text-anchor="middle">4</text>
+<text xml:space="preserve" x="746" y="740" font-family="DejaVu Sans Mono,sans-serif" font-size="20" font-weight="normal" fill="#edf4fa" text-anchor="middle">1.20</text>
+<text xml:space="preserve" x="887" y="740" font-family="DejaVu Sans Mono,sans-serif" font-size="20" font-weight="normal" fill="#edf4fa" text-anchor="middle">-0.70</text>
+<text xml:space="preserve" x="1021" y="740" font-family="DejaVu Sans Mono,sans-serif" font-size="20" font-weight="normal" fill="#edf4fa" text-anchor="middle">23.30</text>
+<text xml:space="preserve" x="1161" y="740" font-family="DejaVu Sans Mono,sans-serif" font-size="20" font-weight="normal" fill="#edf4fa" text-anchor="middle">1.10</text>
+<text xml:space="preserve" x="1315" y="740" font-family="DejaVu Sans Mono,sans-serif" font-size="20" font-weight="normal" fill="#edf4fa" text-anchor="middle">-0.60</text>
+<text xml:space="preserve" x="1468" y="740" font-family="DejaVu Sans Mono,sans-serif" font-size="20" font-weight="normal" fill="#edf4fa" text-anchor="middle">23.20</text>
+<path d="M676 506V758" stroke="#4e6476" stroke-width="1"/>
+<path d="M816 506V758" stroke="#4e6476" stroke-width="1"/>
+<path d="M958 506V758" stroke="#4e6476" stroke-width="1"/>
+<path d="M1084 506V758" stroke="#4e6476" stroke-width="1"/>
+<path d="M1238 506V758" stroke="#4e6476" stroke-width="1"/>
+<path d="M1392 506V758" stroke="#4e6476" stroke-width="1"/>
+<text xml:space="preserve" x="604" y="798" font-family="DejaVu Sans,sans-serif" font-size="19" font-weight="bold" fill="#edcc76" text-anchor="start">N/A stays N/A. Missing information is not shown as zero.</text>
+<text xml:space="preserve" x="604" y="841" font-family="DejaVu Sans,sans-serif" font-size="19" font-weight="normal" fill="#bccbd6" text-anchor="start">Status and readings are evidence—not a completed-repair verdict.</text>
+<text xml:space="preserve" x="604" y="891" font-family="DejaVu Sans,sans-serif" font-size="18" font-weight="normal" fill="#bccbd6" text-anchor="start">What improved: visibility, organization and the technician’s explanation.</text>
+<text xml:space="preserve" x="604" y="927" font-family="DejaVu Sans,sans-serif" font-size="18" font-weight="normal" fill="#bccbd6" text-anchor="start">What stayed the same: the readings and the technician’s choice.</text>
+<text xml:space="preserve" x="40" y="1008" font-family="DejaVu Sans,sans-serif" font-size="19" font-weight="normal" fill="#bccbd6" text-anchor="start">Made-up modules and readings. No live records, locations, serials or internal commands.</text>
+<text xml:space="preserve" x="40" y="1042" font-family="DejaVu Sans,sans-serif" font-size="18" font-weight="normal" fill="#bccbd6" text-anchor="start">This illustration explains a presentation improvement; it does not show a real run, time saving or defect diagnosis.</text>
+</svg>
