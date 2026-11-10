@@ -2,30 +2,20 @@
 
 [Back to portfolio](../README.md)
 
-## The problem
+I use the tool before a repair for a quick overview, during troubleshooting to compare each end independently, and afterward to check status and readings. Readable notes make follow-up easier for the next technician.
 
-Long device-stat outputs can make a difficult repair harder to understand. Important measurements and earlier notes are easy to miss when they are buried in raw text.
+## CLI comparison and note prompts
 
-## What the tool helps with
+![Actual redacted terminal screenshot of comparison readings, note prompts and approval](images/annotated-redacted-screenshot.png)
 
-It displays supported measurements from both ends of a circuit alongside component information. It turns that evidence into a compact comparison, with an optional technician annotation above it. The annotation is part of the image, not a separately editable comment.
+**Actual screenshot, identifying fields removed:** both-end readings, optional notes and approval before attachment. Save completion is not visible in this capture.
 
-The comparison helps people investigate and explain readings. It does not choose their troubleshooting method or declare a component defective just because its model appears in the report.
+## Where ticket notes are left
 
-## Made-up illustration — not live measurements
+![Actual redacted Notes panel with two entries and the note-entry box](images/notes-handoff-redacted.png)
 
-![Fictional before-and-after illustration: separate raw readings beside the same readings in a compact report with a technician note.](images/circuit-evidence-example.png)
+**Actual Notes screenshot, identifying fields removed:** context and readings stay together instead of being buried in long raw output. The annotation is inside the image, separate from the Subject note field.
 
-**All module labels and measurements in this illustration are made up.** It was drawn independently to explain the presentation improvement; it is not a screenshot produced by the operational tool.
+Each end’s status is reported separately. Loopback UP/DOWN states are troubleshooting evidence, not proof that the normal end-to-end circuit is healthy.
 
-The same readings appear on both sides of the illustration. The clearer layout puts the two circuit ends together and places the technician's explanation above them. Side Z lane 3 SNR remains **N/A**, highlighted as missing information rather than replaced with zero. Reported UP status and readable values are evidence, not a completed-repair verdict.
-
-The point is easier reading and handoff—not changing the data, choosing a troubleshooting step, proving a defective component or claiming measured time savings.
-
-## My contribution
-
-I refined the measurements shown, comparison presentation, highlights, component identification and note prompts as I encountered new needs. AI helped implement and test those changes. This is an example of improving a tool through use rather than accepting its first version.
-
-## What changed
-
-I found the output easier to read and hand off than large raw captures. Faster attention to difficult or overdue repairs is a potential benefit, not a measured service-level result. The specific component investigation and internal device-reading methods are omitted from this copy.
+I refined the readings, component identification, comparisons, layout and note prompts as needs arose. AI assisted implementation and testing. Improved readability and handoff are my observations; service-level gains remain unmeasured.

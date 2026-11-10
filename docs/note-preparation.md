@@ -2,23 +2,18 @@
 
 [Back to portfolio](../README.md)
 
-## The problem
+The tool prepares blank subject notes from existing diagnoses. It saves repetitive preparation without deciding the technician’s troubleshooting method. Existing notes and incomplete cases remain protected.
 
-Preparing repair notes one task at a time takes time away from troubleshooting. When an instruction already exists, much of that preparation is repetitive.
+## What a prepared note looks like
 
-## What the tool helps with
+![Illustrative subject notes with substituted actions and sample ports](images/autoatn-example-ports.png)
 
-It prepares a note from an existing documented action and target. It does not decide what repair should be performed. Existing notes are preserved; missing or conflicting information is held for review rather than filled in by guessing.
+**Modified illustration:** actions and ports are substituted, not unchanged run evidence.
 
-## Made-up illustration — not a real ticket or program result
+## What the run reported
 
-- Before: a blank note, with a documented instruction to inspect an example connector at an example location.
-- Proposed note: "Inspect the connector at the recorded location."
-- If someone already wrote a note: keep it.
-- If the action or location is missing: leave the note alone and explain what is missing.
+![Redacted actual CLI summary of note preparation](images/autoatn-summary-redacted.png)
 
-This illustration explains the purpose; it does not reproduce every rule of the operational tool. Preparing an instruction does not mean the physical work has happened.
+**Actual screenshot, identifying rows cropped out:** 212 updates and 26 excluded cases reported by the script. This is not an independent audit or a measurement of hours saved.
 
-## My contribution
-
-I shaped the eligible scope and note format, reviewed the results during use and refined the tool with feedback. AI helped implement and test the changes. Specific workloads and estimated time savings are retained separately while I review what can be shared.
+I shaped the scope and note format, reviewed use and refined the tool with feedback. AI assisted implementation and testing.
