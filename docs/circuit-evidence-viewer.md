@@ -1,5 +1,9 @@
 # Circuit evidence viewer
 
+```bash
+fab --ssh --write --ticket <ticket>
+```
+
 [Back to portfolio](../README.md)
 
 I use the tool before a repair for a quick overview, during troubleshooting to compare each end independently, and afterward to check status and readings. Readable notes make follow-up easier for the next technician.
