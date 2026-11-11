@@ -1,5 +1,9 @@
 # Test evidence recorder
 
+```bash
+checker --ticket <ticket> --end a --optic 645 --sn <serial> --write
+```
+
 [Back to portfolio](../README.md)
 
 ## The problem
