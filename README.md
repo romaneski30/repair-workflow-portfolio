@@ -2,7 +2,7 @@
 
 I worked on small tools to reduce repetitive repair preparation and make test results easier to understand and document. The goal was to help technicians get to the work, not tell them how to troubleshoot.
 
-This documentation-only draft uses generic project labels and made-up examples. It contains no operational source code, real records, internal system links or installation commands. The fuller project descriptions are being reviewed before publication.
+This documentation-only portfolio uses real screenshots from my work, with switch names, ticket numbers, people, locations and other identifying details covered, alongside clearly labeled illustrations. It contains no operational source code, internal system links, credentials or installation commands.
 
 ## How the tools fit together
 
@@ -26,8 +26,8 @@ The tools support different parts of the work. They are not one automatic pipeli
 
 ## My contribution
 
-I identified workflow problems, shaped tool behavior and output, tried changes during real use, and gathered feedback. AI assisted with implementation and testing. These pages distinguish my experience from made-up illustrations; the illustrations do not prove productivity gains or diagnostic accuracy.
+I identified workflow problems, shaped tool behavior and output, tried changes during real use, and gathered feedback. AI assisted with implementation and testing. Each page labels which images are real redacted screenshots and which are illustrations; neither proves productivity gains or diagnostic accuracy.
 
 ## Current scope
 
-This is a project-description draft, not a runnable toolkit. It uses general descriptions instead of internal tool names and commands. Exact workloads, time estimates and supporting work records are kept out of this version while I check what I can share.
+This is a project-description draft, not a runnable toolkit. It uses general descriptions instead of internal system names. Exact workloads, time estimates and supporting work records are kept out of this version while I check what I can share.
