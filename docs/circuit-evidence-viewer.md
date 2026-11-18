@@ -23,3 +23,5 @@ I use the tool before a repair for a quick overview, during troubleshooting to c
 Each end’s status is reported separately. Loopback UP/DOWN states are troubleshooting evidence, not proof that the normal end-to-end circuit is healthy.
 
 I refined the readings, component identification, comparisons, layout and note prompts as needs arose. AI assisted implementation and testing. Improved readability and handoff are my observations; service-level gains remain unmeasured.
+
+See also: [Multi-circuit evidence collection](multi-circuit-evidence.md), which applies the same comparison to every circuit a ticket lists.
