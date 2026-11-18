@@ -19,6 +19,7 @@ The tools support different parts of the work. They are not one automatic pipeli
 - [Note preparation](docs/note-preparation.md): turn existing repair instructions into useful preparation notes.
 - [Batch work organizer](docs/batch-work-organizer.md): group tasks with the same prerequisite while preserving ownership.
 - [Circuit evidence viewer](docs/circuit-evidence-viewer.md): show both ends of a circuit in a readable comparison.
+- [Multi-circuit evidence collection](docs/multi-circuit-evidence.md): check every circuit a ticket lists in one pass, see both ends, and leave one readable record.
 - [Test evidence recorder](docs/test-evidence-recorder.md): make component-test findings easier to document.
 - [Two-stage validation](docs/two-stage-validation.md): an earlier example joining a local test and a later circuit check.
 - [Troubleshooting planner: lessons learned](docs/planner-lessons.md): why a planned integration was paused.
