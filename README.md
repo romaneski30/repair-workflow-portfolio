@@ -2,7 +2,7 @@
 
 I worked on small tools to reduce repetitive repair preparation and make test results easier to understand and document. The goal was to help technicians get to the work, not tell them how to troubleshoot.
 
-This documentation-only portfolio uses real screenshots from my work, with switch names, ticket numbers, people, locations and other identifying details covered, alongside clearly labeled illustrations. It contains no operational source code, internal system links, credentials or installation commands.
+This documentation-only portfolio uses real screenshots from my work, with switch names, ticket numbers, people, locations and other identifying details redacted, alongside clearly labeled illustrations. It contains no operational source code, internal system links, credentials or installation commands.
 
 ## How the tools fit together
 
